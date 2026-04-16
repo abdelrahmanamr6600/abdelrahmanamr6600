@@ -3,17 +3,19 @@
 
 - 🔭 I’m currently working on **Mobile Applications (Android & iOS) and Software Solutions**
 
-- 🌱 I’m currently improving my skills in **Advanced Mobile Development, System Design, and iOS Development (Swift & Objective-C)**
+- 🌱 I’m currently improving my skills in **Advanced Mobile Development, System Design, and Mobile Security (Fintech & Banking Apps)**
 
 - 👨‍💻 I have experience in:
   - Building **real-world mobile applications for Android & iOS**
   - Developing **eCommerce and multi-vendor platforms**
   - Creating **AI-powered applications (e.g., insomnia treatment app)**
   - Applying **clean architecture (MVVM, UseCase, Repository patterns)**
-  - Working with **REST APIs, Retrofit, and secure applications**
-  - Handling **scalable app structures and multi-module projects**
+  - Working with **REST APIs, Retrofit, and scalable backend integrations**
+  - Implementing **secure mobile practices (authentication, secure storage, API protection)**
+  - Contributing to **financial and banking-related applications with focus on security and performance**
+  - Handling **multi-module projects and scalable architectures**
 
-- 💬 Ask me about **Java, Kotlin, Swift, Objective-C, Mobile Development**
+- 💬 Ask me about **Java, Kotlin, Swift, Objective-C, Mobile Development, App Security**
 
 - 📫 How to reach me **AbdelrahmanAmr85@gmail.com**
 
